@@ -1,4 +1,4 @@
-# RL_CartPole
+# Reinforcement Learning - CartPole
 
 ## 1. Inistall dependencies
 ```
